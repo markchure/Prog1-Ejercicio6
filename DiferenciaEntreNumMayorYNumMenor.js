@@ -1,3 +1,4 @@
+//Ingresar 10 números. Se asumen positivos. Indicar la diferencia entre el mayor y el menor.
 var max = 10;
 var menor = Number.MAX_VALUE;
 var mayor = Number.MIN_VALUE;
